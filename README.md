@@ -8,7 +8,7 @@ description: >-
 
 關於我：
 
-曾在 Adecco 台灣辦公室工作，負責軟體領域人才招募。目前就讀哥本哈根大學 IT & Cognition 碩士學程，主修機器學習。兼職招募顧問，也提供免費履歷修改建議。
+曾在 Adecco 台灣辦公室工作，負責軟體領域人才招募。目前就讀哥本哈根大學 IT & Cognition 碩士學程，主修機器學習。兼職招募顧問，也提供履歷修改建議。
 
 Linkedin: [https://www.linkedin.com/in/terry-kuo-/](https://www.linkedin.com/in/terry-kuo-/)
 
