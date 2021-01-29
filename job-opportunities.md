@@ -29,20 +29,13 @@ Last update: Jan 25, 2021
       <td style="text-align:left">T001</td>
       <td style="text-align:left">&#x6F14;&#x7B97;&#x6CD5;&#x4E3B;&#x7BA1;</td>
       <td style="text-align:left">&#x53F0;&#x5317;&#x5E02;</td>
-      <td style="text-align:left">1.2 - 1.6M</td>
+      <td style="text-align:left">1.2 - 1.6M+</td>
       <td style="text-align:left">
         <p><code>&#x751F;&#x91AB;</code>
         </p>
         <p><code>&#x8EDF;&#x786C;&#x9AD4;&#x6574;&#x5408;</code>
         </p>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
@@ -61,28 +54,14 @@ Last update: Jan 25, 2021
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">J001</td>
-      <td style="text-align:left">
-        <p>Full-Stack/</p>
-        <p>Back-End Engineer</p>
-      </td>
-      <td style="text-align:left">&#x53F0;&#x5317;&#x5E02;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-        <p><code>&#x74B0;&#x4FDD;</code>
-        </p>
-        <p><code>&#x65B0;&#x5275;</code>
-        </p>
-        <p><code>&#x82F1;&#x6587;&#x74B0;&#x5883;</code>
-        </p>
+        <p></p>
+        <p></p>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">J002</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
@@ -99,7 +78,8 @@ Last update: Jan 25, 2021
 
 | 編號 | 職稱 | 地點 | 薪資 | 關鍵字 |
 | :--- | :--- | :--- | :--- | :--- |
-| G001 | Front-End Engineer | 台北市 |  | `區塊鏈` |
+| G001 | Front-End Engineer | 台北市 | 1 - 2M | `區塊鏈` |
+| G002 | Quantitative Researcher | 台北市 | 2.5M+ | `對沖基金` |
 {% endtab %}
 {% endtabs %}
 
@@ -111,11 +91,11 @@ Last update: Jan 25, 2021
 
 #### T001 
 
-職稱：Algorithm Team Leader
+職稱：演算法主管
 
 地點：台北市
 
-薪資：1.2 - 1.6M
+薪資：1.2 - 1.6M（視工作經驗有機會再往上談）
 
 關鍵字：`軟硬體整合` `生醫` 
 
@@ -133,48 +113,6 @@ Last update: Jan 25, 2021
 * Android App Java 或 C++ 開發經驗
 * 熟悉 Android fragment 架構
 * 手機相機及影像演算法
-
-#### 
-
-#### 
-
-#### J001
-
-職稱：Full-Stack/ Back-End Engineer
-
-地點：台北市
-
-薪資：
-
-關鍵字： `環保` `新創` `英文環境`
-
-工作內容：
-
-*  開發 CRM 產品
-
-技能需求：
-
-* 
-#### J002
-
-職稱：Full-Stack/ Back-End Engineer
-
-地點：台北市
-
-薪資：
-
-關鍵字： `環保` `新創` `英文環境`
-
-工作內容：
-
-*  開發 CRM 產品
-
-技能需求：
-
-* 
-
-
-
 
 
 
@@ -198,10 +136,28 @@ Last update: Jan 25, 2021
 * 任一整合 API 經驗
 * 基本版本控管概念 \(Git\)
 * 具有 React / React Native 或 Native iOS / Android 任一種開發經驗
+* 對區塊鏈應用有濃厚興趣（加分）
 
 
 
-#### 
+#### G002
+
+職稱：Quantitative Researcher
+
+地點：台北市
+
+薪資：2.5M+
+
+關鍵字： `對沖基金`
+
+工作內容：
+
+* 使用量化研究方法尋找股市投資標的
+
+技能需求：
+
+* 大學期間成績優異，就讀電機/ 資訊/ 數學/ 物理相關科系，並得過書卷獎
+* 獲數學/ 物理/ 資訊奧林匹亞獎牌或 ACM 等演算法競賽得獎
 
 \*\*\*\*
 
