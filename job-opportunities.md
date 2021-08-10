@@ -1,10 +1,8 @@
 ---
-description: 本頁面彙整職缺資訊，如果對以下職缺感興趣，歡迎將履歷寄到 terry@brucehr.com.tw
+description: '本頁面彙整職缺資訊，如果對以下職缺感興趣，歡迎將履歷寄到 terry@brucehr.com.tw. Last update: Aug 2021'
 ---
 
 # 職缺資訊
-
-Last update: Jan 25, 2021
 
 由於版面安排，分頁僅提供概括資訊。詳細職缺資訊及常見問題，請繼續往下拉。
 
