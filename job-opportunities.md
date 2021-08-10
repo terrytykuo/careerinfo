@@ -1,5 +1,5 @@
 ---
-description: 本頁面彙整職缺資訊，如果對以下職缺感興趣，歡迎將履歷寄到 terrykuo.career@gmail.com
+description: 本頁面彙整職缺資訊，如果對以下職缺感興趣，歡迎將履歷寄到 terry@brucehr.com.tw
 ---
 
 # 職缺資訊
@@ -35,32 +35,6 @@ Last update: Jan 25, 2021
         </p>
         <p><code>&#x8EDF;&#x786C;&#x9AD4;&#x6574;&#x5408;</code>
         </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-{% endtab %}
-
-{% tab title="JavaScript" %}
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">&#x7DE8;&#x865F;</th>
-      <th style="text-align:left">&#x8077;&#x7A31;</th>
-      <th style="text-align:left">&#x5730;&#x9EDE;</th>
-      <th style="text-align:left">&#x85AA;&#x8CC7;</th>
-      <th style="text-align:left">&#x95DC;&#x9375;&#x5B57;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
-        <p></p>
-        <p></p>
       </td>
     </tr>
   </tbody>
