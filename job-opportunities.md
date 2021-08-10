@@ -1,5 +1,5 @@
 ---
-description: 本頁面彙整職缺資訊，如果對以下職缺感興趣，歡迎將履歷寄到 terrykuo.career@gmail.com
+description: 本頁面彙整職缺資訊，如果對以下職缺感興趣，歡迎將履歷寄到 terry@brucehr.com.tw
 ---
 
 # 職缺資訊
