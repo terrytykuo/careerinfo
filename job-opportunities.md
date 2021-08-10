@@ -8,7 +8,7 @@ description: '本頁面彙整職缺資訊，如果對以下職缺感興趣，歡
 
 有任何疑問，請先至 [FAQ](faq.md)
 
-沒有看到感興趣的職缺，歡迎到 GitHub 上[敲碗](https://github.com/sealpuppy/careerinfo/issues)
+沒有看到感興趣的職缺，歡迎到 GitHub 上開 issue [_**敲碗**_](https://github.com/sealpuppy/careerinfo/issues)_\*\*\*\*_
 
 {% tabs %}
 {% tab title="Team Leader" %}
