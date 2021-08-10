@@ -90,30 +90,6 @@ Last update: Jan 25, 2021
 
 
 
-#### G001
-
-職稱：Front-End Engineer
-
-地點：台北市
-
-薪資：1 - 2M
-
-關鍵字： `區塊鏈`
-
-工作內容：
-
-* 開發產品 POC 與 MVP
-
-技能需求：
-
-* 精通以下至少一種程式語言：JavaScript, Java, Python, Golang, PHP, Swift
-* 任一整合 API 經驗
-* 基本版本控管概念 \(Git\)
-* 具有 React / React Native 或 Native iOS / Android 任一種開發經驗
-* 對區塊鏈應用有濃厚興趣（加分）
-
-
-
 #### G002
 
 職稱：Quantitative Researcher
@@ -122,7 +98,7 @@ Last update: Jan 25, 2021
 
 薪資：2.5M+
 
-關鍵字： `對沖基金`
+關鍵字： 
 
 工作內容：
 
