@@ -1,14 +1,16 @@
 ---
-description: '本頁面彙整職缺資訊，如果對以下職缺感興趣，歡迎將履歷寄到 terry@brucehr.com.tw. Last update: Aug 2021'
+description: 本頁面彙整職缺資訊，如果對以下職缺感興趣，歡迎將履歷寄到 terrykuo.career@gmail.com
 ---
 
 # 職缺資訊
+
+Last update: Jan 25, 2021
 
 由於版面安排，分頁僅提供概括資訊。詳細職缺資訊及常見問題，請繼續往下拉。
 
 有任何疑問，請先至 [FAQ](faq.md)
 
-沒有看到感興趣的職缺，歡迎到 GitHub 上開 issue [_**敲碗**_](https://github.com/sealpuppy/careerinfo/issues)_\*\*\*\*_
+沒有看到感興趣的職缺，歡迎到 GitHub 上[敲碗](https://github.com/sealpuppy/careerinfo/issues)
 
 {% tabs %}
 {% tab title="Team Leader" %}
@@ -33,6 +35,32 @@ description: '本頁面彙整職缺資訊，如果對以下職缺感興趣，歡
         </p>
         <p><code>&#x8EDF;&#x786C;&#x9AD4;&#x6574;&#x5408;</code>
         </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+{% endtab %}
+
+{% tab title="JavaScript" %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x7DE8;&#x865F;</th>
+      <th style="text-align:left">&#x8077;&#x7A31;</th>
+      <th style="text-align:left">&#x5730;&#x9EDE;</th>
+      <th style="text-align:left">&#x85AA;&#x8CC7;</th>
+      <th style="text-align:left">&#x95DC;&#x9375;&#x5B57;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p></p>
+        <p></p>
       </td>
     </tr>
   </tbody>
@@ -88,6 +116,30 @@ description: '本頁面彙整職缺資訊，如果對以下職缺感興趣，歡
 
 
 
+#### G001
+
+職稱：Front-End Engineer
+
+地點：台北市
+
+薪資：1 - 2M
+
+關鍵字： `區塊鏈`
+
+工作內容：
+
+* 開發產品 POC 與 MVP
+
+技能需求：
+
+* 精通以下至少一種程式語言：JavaScript, Java, Python, Golang, PHP, Swift
+* 任一整合 API 經驗
+* 基本版本控管概念 \(Git\)
+* 具有 React / React Native 或 Native iOS / Android 任一種開發經驗
+* 對區塊鏈應用有濃厚興趣（加分）
+
+
+
 #### G002
 
 職稱：Quantitative Researcher
@@ -96,7 +148,7 @@ description: '本頁面彙整職缺資訊，如果對以下職缺感興趣，歡
 
 薪資：2.5M+
 
-關鍵字： 
+關鍵字： `對沖基金`
 
 工作內容：
 
