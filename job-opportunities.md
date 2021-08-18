@@ -1,105 +1,146 @@
 ---
-description: '本頁面彙整職缺資訊，如果對以下職缺感興趣，歡迎將履歷寄到 terry@brucehr.com.tw. Last update: Aug 2021'
+description: 本頁面彙整職缺資訊，如果對以下職缺感興趣，歡迎將履歷寄到 terrykuo.career@gmail.com
 ---
 
 # 職缺資訊
+
+Last update: Jan 25, 2021
 
 由於版面安排，分頁僅提供概括資訊。詳細職缺資訊及常見問題，請繼續往下拉。
 
 有任何疑問，請先至 [FAQ](faq.md)
 
-沒有看到感興趣的職缺，歡迎到 GitHub 上開 issue [_**敲碗**_](https://github.com/sealpuppy/careerinfo/issues)_\*\*\*\*_
+沒有看到感興趣的職缺，歡迎到 GitHub 上[敲碗](https://github.com/sealpuppy/careerinfo/issues)
 
 {% tabs %}
-{% tab title="Data/ ML" %}
-
-
-| 職稱 | 地點 | 薪資 |  |
-| :--- | :--- | :--- | :--- |
-| D01 | Data/ Deep Learning Engineer＊ | 台北市 | 1.5M - 2M \(Jr.\); Open \(Sr.\) |
-| D02 | Technical Lead | 台北市 | Open |
-| D03 | Data Engineer＊ | 新加坡 | Open |
+{% tab title="Team Leader" %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x7DE8;&#x865F;</th>
+      <th style="text-align:left">&#x8077;&#x7A31;</th>
+      <th style="text-align:left">&#x5730;&#x9EDE;</th>
+      <th style="text-align:left">&#x85AA;&#x8CC7;</th>
+      <th style="text-align:left">&#x95DC;&#x9375;&#x5B57;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">T001</td>
+      <td style="text-align:left">&#x6F14;&#x7B97;&#x6CD5;&#x4E3B;&#x7BA1;</td>
+      <td style="text-align:left">&#x53F0;&#x5317;&#x5E02;</td>
+      <td style="text-align:left">1.2 - 1.6M+</td>
+      <td style="text-align:left">
+        <p><code>&#x751F;&#x91AB;</code>
+        </p>
+        <p><code>&#x8EDF;&#x786C;&#x9AD4;&#x6574;&#x5408;</code>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 
-{% tab title="Others" %}
-不限制相關資歷的工作，一般這類工作不要求特定程式語言經驗，但對通用知識會有更高要求，如資料結構、演算法、數學等等
+{% tab title="JavaScript" %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x7DE8;&#x865F;</th>
+      <th style="text-align:left">&#x8077;&#x7A31;</th>
+      <th style="text-align:left">&#x5730;&#x9EDE;</th>
+      <th style="text-align:left">&#x85AA;&#x8CC7;</th>
+      <th style="text-align:left">&#x95DC;&#x9375;&#x5B57;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p></p>
+        <p></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+{% endtab %}
 
-| 編號 | 職稱 | 地點 | 薪資 |
-| :--- | :--- | :--- | :--- |
-| O01 | Quantitative Researcher＊ | 台北市 | 2.5M+ |
+{% tab title="Machine Learning" %}
+| 編號 | 職稱 | 地點 | 薪資 | 關鍵字 |
+| :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |
+{% endtab %}
+
+{% tab title="General" %}
+比較不限制相關資歷的工作，一般這類工作不要求特定程式語言經驗，但對通用知識會有更高要求，如資料結構、演算法、數學等等
+
+| 編號 | 職稱 | 地點 | 薪資 | 關鍵字 |
+| :--- | :--- | :--- | :--- | :--- |
+| G001 | Front-End Engineer | 台北市 | 1 - 2M | `區塊鏈` |
+| G002 | Quantitative Researcher | 台北市 | 2.5M+ | `對沖基金` |
 {% endtab %}
 {% endtabs %}
 
-星號（＊）代表公司接受不同年資的人選，包含 New Grad/ Junior/ Senior，沒打星號的話就代表公司偏好特定年資範圍的人選
-
-看到喜歡的工作後可以直接搜尋編號，往下即可看到詳細資訊
 
 
+### 
 
 ### 詳細資訊
 
+#### T001 
 
-
-### Data/ ML
-
-D01/ D02
-
-職稱：\(Sr.\) Data/ Deep Learning Engineer
+職稱：演算法主管
 
 地點：台北市
 
-薪資：New grad/ Junior : 1.5M - 2M; Senior: 2M+ 無上限，視面試表現及經驗談薪
+薪資：1.2 - 1.6M（視工作經驗有機會再往上談）
 
-公司簡介：全球最大的數位廣告公司及內容推薦平台，提供企業客戶廣告媒合服務。總部在以色列，主要營運辦公室在美國，剛到台灣設立新的研發辦公室。針對 10 億級用戶，依照讀者偏好，每個月進行超過 4500 億次內容推薦
-
-工作內容：
-
-* Design and Implement big data/ ML pipeline
-* Searching for patterns and features for recommendation systems
-* Implement online experiments for model refinement and evaluation
-* \(ML Engineer\) Building models under multiple scenarios
-* \(Technical Lead\) Supervise and mentor junior developers
-
-技能需求：
-
-* Python/ Java or other OO languages
-* Experience in building and optimizing data pipelines, architectures, and datasets
-* \(Data Engineer\) Experience working with large datasets, using tools like Hadoop, Spark, Kafka, HBase, etc.
-* \(New Grad\) Experience in real-world data manipulation/ modeling
-* Experience in NLP is a plus 
-
-語言需求：基本技術英文溝通（面試為全英文）；Technical Lead 需流暢英文溝通
-
-
-
-D03
-
-職稱：\(New Grad/ Jr. / Sr.\) Data Engineer, 
-
-地點：新加坡
-
-薪資：Open
-
-公司簡介：亞洲最大的生醫 AI 公司之一，公司在北京、新加坡、汶萊皆有設點。新創氛圍強，熟悉醫院業務。主要客戶為中國醫院，替醫院管理醫療數據及數據挖掘，協助醫院進行新型臨床研究、藥品開發、及院內管理服務。公司目前已經在香港上市。
+關鍵字：`軟硬體整合` `生醫` 
 
 工作內容：
 
-* Convert the unstructured data into structured data with high accuracy and recall
-* Transform the medical domain knowledge into data processing flow
-* Data ETL pipeline design, operations, and maintenance
-* Data validation
+* 此職務以資深工程師招募，並儲備為初階主管
+* 溝通能⼒最受重視，能夠和人良好溝通
+* 對內溝通，帶領團隊完成開發任務
+* 開發新軟體，包含程式架構、參數介面、影像演算法開發
+* 將深度學習演算法植入 Android 系統
+* 執行軟體測試並優化
 
 技能需求：
 
-* Python or Java development experience
-* Knowledge/ Experience in ETL design
-* Familiar with Hadoop ecosystem is a plus
+* Android App Java 或 C++ 開發經驗
+* 熟悉 Android fragment 架構
+* 手機相機及影像演算法
 
-語言需求：公司多半以中文溝通，但需要基本英語
 
-### Others
 
-#### O01
+#### G001
+
+職稱：Front-End Engineer
+
+地點：台北市
+
+薪資：1 - 2M
+
+關鍵字： `區塊鏈`
+
+工作內容：
+
+* 開發產品 POC 與 MVP
+
+技能需求：
+
+* 精通以下至少一種程式語言：JavaScript, Java, Python, Golang, PHP, Swift
+* 任一整合 API 經驗
+* 基本版本控管概念 \(Git\)
+* 具有 React / React Native 或 Native iOS / Android 任一種開發經驗
+* 對區塊鏈應用有濃厚興趣（加分）
+
+
+
+#### G002
 
 職稱：Quantitative Researcher
 
@@ -107,7 +148,7 @@ D03
 
 薪資：2.5M+
 
-公司簡介：全球前 1% 量化基金，採用各式量化方法對投資標的建模。接受無金融背景人選，針對新人會提供相關培訓。
+關鍵字： `對沖基金`
 
 工作內容：
 
