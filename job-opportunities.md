@@ -22,7 +22,7 @@ _\*\*\*\*_
 {% tab title="Data/ ML" %}
 
 
-| 職稱 | 地點 | 薪資 |  |
+| 編號 | 職稱 | 地點 | 薪資 |
 | :--- | :--- | :--- | :--- |
 | D01 | Data/ Deep Learning Engineer＊ | 台北市 | 1.5M - 2M \(Jr.\); Open \(Sr.\) |
 | D02 | Technical Lead | 台北市 | Open |
