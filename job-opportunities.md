@@ -6,13 +6,17 @@ description: '本頁面彙整職缺資訊，如果對以下職缺感興趣，歡
 
 ### About
 
-由於版面安排， Overview 僅提供概括資訊。詳細職缺資訊，請繼續往下拉。
+由於版面安排， Overview 僅提供概括資訊。詳細職缺資訊，請繼續往下拉
 
 有任何疑問，請先至 [FAQ](faq.md)
 
 沒有看到感興趣的職缺，歡迎到 GitHub 上開 issue \[[Link](https://github.com/sealpuppy/careerinfo/issues)\]
 
 招募行業的基礎是人才庫，如果對特定職缺/ 公司感興趣的人才足夠多，我們就可以去開發新的好職缺、收集面試資訊、並嘗試協助人選準備面試
+
+想定期收到職缺訊息，歡迎填問卷留下 email \[[Link](https://docs.google.com/forms/d/e/1FAIpQLSev5o9CgwsOApDmSCXALt8qocXvIz739wkfugd91jsprpGD8Q/viewform?usp=pp_url)\]
+
+
 
 _\*\*\*\*_
 
