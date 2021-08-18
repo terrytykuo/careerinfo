@@ -10,7 +10,7 @@ description: '本頁面彙整職缺資訊，如果對以下職缺感興趣，歡
 
 有任何疑問，請先至 [FAQ](faq.md)
 
-沒有看到感興趣的職缺，歡迎到 GitHub 上開 issue「敲碗」
+沒有看到感興趣的職缺，歡迎到 GitHub 上開 issue \[[Link](https://github.com/sealpuppy/careerinfo/issues)\]
 
 招募行業的基礎是人才庫，如果對特定職缺/ 公司感興趣的人才足夠多，我們就可以去開發新的好職缺、收集面試資訊、並嘗試協助人選準備面試
 
