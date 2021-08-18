@@ -21,15 +21,6 @@ description: '本頁面彙整職缺資訊，如果對以下職缺感興趣，歡
 | D03 | Data Engineer＊ | 新加坡 | Open |
 {% endtab %}
 
-{% tab title="Blockchain" %}
-
-
-| 編號 | 職稱 | 地點 | 薪資 |
-| :--- | :--- | :--- | :--- |
-| B01 | Blockchain Researcher | 台北/ 新加坡 | Open |
-| B02 | Blockchain Engineer＊ | 台北/ 新加坡 | Open |
-{% endtab %}
-
 {% tab title="Others" %}
 不限制相關資歷的工作，一般這類工作不要求特定程式語言經驗，但對通用知識會有更高要求，如資料結構、演算法、數學等等
 
@@ -105,64 +96,6 @@ D03
 * Familiar with Hadoop ecosystem is a plus
 
 語言需求：公司多半以中文溝通，但需要基本英語
-
-### 
-
-### 
-
-### Blockchain
-
-B01
-
-職稱：Blockchain Researcher
-
-地點：台北市/ 新加坡
-
-薪資：Open
-
-公司簡介：
-
-工作內容：
-
-* Analyst and conduct in-depth research of Defi products and Blockchain Technology’s foundation
-* From macroeconomic and microeconomic forecasts to individual DeFi product & blockchain technologies analysis, to provide valuable insights to help develops tools and trading strategies.
-
-技能需求：
-
-* Bachelor’s or Master’s degree, preferably majors in Math/ Stats/ Economics
-* 1 years of experience analyzing DeFi products/ blockchain
-* High interest in Defi, Etheraum Development researcher and understanding of trading strategy
-* Strong interpersonal and communication in order to liaise with remote team members
-* Ability to adapt to a dynamic and fast-paced organization
-
-\*\*\*\*
-
-B02
-
-職稱：Blockchain Engineer
-
-地點：台北市/ 新加坡
-
-薪資：Open
-
-公司簡介：
-
-工作內容：
-
-* Analyst and conduct in-depth research of Defi products and Blockchain Technology’s foundation
-* From macroeconomic and microeconomic forecasts to individual DeFi product & blockchain technologies analysis, to provide valuable insights to help develops tools and trading strategies.
-
-技能需求：
-
-* Bachelor’s or Master’s degree, preferably majors in Math/ Stats/ Economics
-* 1 years of experience analyzing DeFi products/ blockchain
-* High interest in Defi, Etheraum Development researcher and understanding of trading strategy
-* Strong interpersonal and communication in order to liaise with remote team members
-* Ability to adapt to a dynamic and fast-paced organization
-
-
-
-
 
 ### Others
 
