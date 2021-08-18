@@ -4,11 +4,19 @@ description: '本頁面彙整職缺資訊，如果對以下職缺感興趣，歡
 
 # 職缺資訊
 
+### About
+
 由於版面安排，分頁僅提供概括資訊。詳細職缺資訊及常見問題，請繼續往下拉。
 
 有任何疑問，請先至 [FAQ](faq.md)
 
-沒有看到感興趣的職缺，歡迎到 GitHub 上開 issue [_**敲碗**_](https://github.com/sealpuppy/careerinfo/issues)_\*\*\*\*_
+沒有看到感興趣的職缺，歡迎到 GitHub 上開 issue「
+
+
+
+_\*\*\*\*_
+
+### Overview
 
 {% tabs %}
 {% tab title="Data/ ML" %}
