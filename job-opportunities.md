@@ -116,7 +116,7 @@ B01
 
 職稱：Blockchain Researcher
 
-地點：台北市
+地點：台北市/ 新加坡
 
 薪資：Open
 
@@ -136,6 +136,29 @@ B01
 * Ability to adapt to a dynamic and fast-paced organization
 
 \*\*\*\*
+
+B02
+
+職稱：Blockchain Engineer
+
+地點：台北市/ 新加坡
+
+薪資：Open
+
+公司簡介：
+
+工作內容：
+
+* Analyst and conduct in-depth research of Defi products and Blockchain Technology’s foundation
+* From macroeconomic and microeconomic forecasts to individual DeFi product & blockchain technologies analysis, to provide valuable insights to help develops tools and trading strategies.
+
+技能需求：
+
+* Bachelor’s or Master’s degree, preferably majors in Math/ Stats/ Economics
+* 1 years of experience analyzing DeFi products/ blockchain
+* High interest in Defi, Etheraum Development researcher and understanding of trading strategy
+* Strong interpersonal and communication in order to liaise with remote team members
+* Ability to adapt to a dynamic and fast-paced organization
 
 
 
