@@ -48,7 +48,7 @@ Google 架設的運算資源集叢，真的很快，爬一些文章看大家的�
 
 ![](https://cdn-images-1.medium.com/max/800/1*mAwqbRrSUOK7jzAeFdbt7A.png)
 
-1. **確認版本 \(Tensorflow\)**
+**1. 確認版本 \(Tensorflow\)**
 
 這邊有個坑，Colab 上的 Tensorflow 版本要跟 TPU 上的 Tensorflow 版本一樣。但問題是我怎麼會知道 TPU 上的 Tensorflow 是什麼版本？總之，在這篇文章產出的當下 \(2021/8/20\) 是 2.5，而 Colab 預裝的 Tensorflow 也是 2.5, 所以不需要做任何事
 
