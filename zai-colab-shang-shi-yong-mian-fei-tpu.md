@@ -1,5 +1,5 @@
 ---
-description: 免費仔的福音
+description: 免費仔有福了
 ---
 
 # 在 Colab 上使用免費 TPU
@@ -66,9 +66,9 @@ Google 架設的運算資源集叢，真的很快，爬一些文章看大家的�
 
 首先要先讓 Colab 可以存取 GCS。另外，推薦將訓練好的模型存在 Google Drive，所以可以同時提供 GCS 和 Google Drive 的權限
 
-要留意的是，Colab 的授權方式是，運行這一格之後，會出現一個授權頁面，裡面會有一串代碼。把這串代碼貼到 Colab output 上之後就算授權完成。所以**這兩個授權要寫在不同的兩格**，不然在 output 就只會出現第二個授權
+要留意的是，Colab 的授權方式是，運行這一格之後，會出現一個授權頁面，裡面會有一串代碼。把這串代碼貼到 Colab output 上之後就算授權完成。所以**這兩個授權要寫在分開的兩格**，不然在 output 就只會出現第二個授權
 
-Google Drive 授權
+**Google Drive 授權**
 
 ```text
 # Access Google Drive
@@ -76,7 +76,7 @@ from google.colab import drive
 drive.mount(‘/content/drive’)
 ```
 
-GCS 授權
+**GCS 授權**
 
 ```text
 # Access GCS
@@ -92,14 +92,10 @@ auth.authenticate_user()
 try:
     tpu = tf.distribute.cluster_resolver.TPUClusterResolver() # TPU detection
     print(‘Running on TPU ‘, tpu.cluster_spec().as_dict()[‘worker’])
-```
-
-```text
+    
 except ValueError:
     raise BaseException(‘ERROR: Not connected to a TPU runtime; please see the previous cell in this notebook for instructions!’)
-```
 
-```text
 tf.config.experimental_connect_to_cluster(tpu)
 tf.tpu.experimental.initialize_tpu_system(tpu)
 tpu_strategy = tf.distribute.experimental.TPUStrategy(tpu)
@@ -109,7 +105,7 @@ tpu_strategy = tf.distribute.experimental.TPUStrategy(tpu)
 
 根據 TPU 文件，Batch Size 建議為 64 的倍數，可以從比較大的 Batch Size \(1024之類的\) 開始試。另外，因為 TPU 算力很強，如果餵資料不夠快，運算瓶頸就會在 data pipeline 那邊，所以一次餵多一點資料也是想充分運用 TPU
 
-```text
+```python
 batch_size = 1024
 gcs_path = “gs://new-bucket/” # 在 GCS 上的 bucket name 
 ```
@@ -130,21 +126,15 @@ val_files = tf.io.gfile.glob(val_pattern)
 
 大致上就跟平常的做法一樣，但使用 TPU 時要把這些東西都包成函數，所以我的做法就只是這樣：
 
-```text
+```python
 def train_data():
     # 就是普通的 training data
-```
-
-```text
     return train
 ```
 
-```text
+```python
 def create_model():
     # 就是普通的 keras model
-```
-
-```text
     return model
 ```
 
@@ -152,14 +142,12 @@ def create_model():
 
 **6. 開始訓練**
 
-```text
+```python
 with tpu_strategy.scope(): 
     m = create_model()
     m.save("/content/drive/MyDrive/") # 儲存模型架構
-```
-
-```text
-m.fit(train_data(),....)
+    
+m.fit(train_data(), ...)
 ```
 
 最後訓練好的參數可以儲存在 Google Drive 上
