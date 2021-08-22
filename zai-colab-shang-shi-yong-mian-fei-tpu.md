@@ -2,7 +2,7 @@
 description: 免費仔有福了
 ---
 
-# 在 Colab 上使用免費 TPU
+# 在 Google Colab 上使用免費 TPU
 
 Colab 上現在可以使用免費 TPU 了（雖然不是真的完全免費）
 
